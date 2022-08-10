@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Varela+Round&display=swap');
+
+.cards {
+   font-family: 'Lato', sans-serif;
+   width: 1000px;
+   margin: 0 auto;
+	
+	&__heading {
+		font-size: 108px;
+		margin: 20px auto;
+		text-align: center;
+	}
+
+   &__footer {
+      font-size: 22px;
+
+      display: table;
+      justify-items: center;
+      margin: 30px auto;
+   }
+}
+
+
