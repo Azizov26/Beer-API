@@ -4,6 +4,6 @@
 
 ***
 
-## 🌐 You can try demo <a href='https://azizov26.github.io/Extend-Todo/' target="_blank"/>here</a>
+## 🌐 You can try demo <a href='https://azizov26.github.io/Beer-API/' target="_blank"/>here</a>
 
 ***
